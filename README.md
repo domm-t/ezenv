@@ -19,8 +19,8 @@ A GUI tool to simplify managing environment variables and `/etc/hosts` entries d
 ## Installation ⚙️
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/env-helper.git
-cd env-helper
+git clone https://github.com/domm-t/ezenv.git
+cd ezenv
 
 # Install dependencies
 sudo apt install python3-tk
