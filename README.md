@@ -2,7 +2,7 @@
 
 A GUI tool to simplify managing environment variables and `/etc/hosts` entries during penetration testing exercises like OSCP.
 
-![Demo Screenshot]
+![Demo Screenshot](ezenv.mp4)
 
 ## Features ✨
 - **GUI Interface**: Easy input for IPs and domain names
