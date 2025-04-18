@@ -26,4 +26,11 @@ cd env-helper
 sudo apt install python3-tk
 
 # Make script executable
-chmod +x env_helper.py
+chmod +x ezenv.py
+
+# Make the script global
+sudo cp ezenv.py /usr/local/bin/ezenv
+sudo chmod +x /usr/local/bin/ezenv
+
+# Run tool globally!
+ezenv
